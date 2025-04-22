@@ -41,4 +41,18 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
     - **URL**: https://mijailovic.net/2025/04/10/memory-optimizations/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2040
     - **Atualizado**: 10 de abril de 2025
 
+6. [2025.04.22](./Leitura/20250422.md)
+    - **Título**: Building Your First MCP Server with .NET: A Developer's Guide to Model Context Protocol
+    - **Autor**: Engincan Veske
+    - **Fonte**: Engincan Veske's Blog
+    - **URL**: https://engincanveske.substack.com/p/building-your-first-mcp-server-with
+    - **Atualizado**: 09 de abril de 2025
+
+7. [2025.04.22-02](./Leitura/20250422-02.md)
+    - **Título**: Null-Conditional Assignment in C# – A Cleaner Way to Handle Nulls in .NET 10
+    - **Autor**: Arunkumar
+    - **Fonte**: Arunkumar Blog
+    - **URL**: https://www.arungudelli.com/csharp-tips/null-conditional-assignment-in-csharp/
+    - **Atualizado**: 16 de abril de 2025
+
 ---
