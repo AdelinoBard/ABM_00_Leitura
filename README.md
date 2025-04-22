@@ -1,6 +1,8 @@
 # ABM_00_Estudos-Leitura
 
-Um repositório dedicado a organizar e compartilhar notas de leitura sobre desenvolvimento com C#. Ele contém resumos, insights e referências de fontes diversas, incluindo blogs, sites, livros e cursos. Ideal para aprendizado contínuo, consulta futura e inspiração para desenvolvedores.
+Um repositório dedicado a organizar e compartilhar notas de leitura sobre desenvolvimento principalmente em C#. 
+
+Ele contém resumos, insights e referências de fontes diversas, incluindo blogs, sites, livros e cursos. Ideal para aprendizado contínuo, consulta futura e inspiração para desenvolvedores.
 
 ---
 
