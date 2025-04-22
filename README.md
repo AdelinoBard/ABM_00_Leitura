@@ -13,28 +13,28 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
     - **URL**: https://codewithmukesh.com/blog/restful-api-best-practices-for-dotnet-developers/
     - **Atualizado**: 20 de março de 2025
 
-2. [2025.04.18](./20250418.md)
+2. [2025.04.18](./Leitura/20250418.md)
     - **Título**: 20+ .NET Tips from a Senior .NET Developer - Write Better .NET Code
     - **Autor**: Mukesh Murugan
     - **Fonte**: Code With Mukesh
     - **URL**: https://codewithmukesh.com/blog/20-tips-from-a-senior-dotnet-developer/
     - **Atualizado**: 21 de março de 2025
 
-3. [2025.04.18-02](./20250418-02.md)
+3. [2025.04.18-02](./Leitura/20250418-02.md)
     - **Título**: Understanding Middlewares in ASP.NET Core - Everything you Need to Know!
     - **Autor**: Mukesh Murugan
     - **Fonte**: Code With Mukesh
     - **URL**: https://codewithmukesh.com/blog/middlewares-in-aspnet-core/
     - **Atualizado**: 26 de março de 2025
 
-4. [2025.04.19](./20250419.md)
+4. [2025.04.19](./Leitura/20250419.md)
     - **Título**: Dependency Injection in ASP.NET Core Explained
     - **Autor**: Mukesh Murugan
     - **Fonte**: Code With Mukesh
     - **URL**: https://codewithmukesh.com/blog/dependency-injection-in-aspnet-core-explained/
     - **Atualizado**: 30 de março de 2025
   
-5. [2025.04.20](./20250420.md)
+5. [2025.04.20](./Leitura/20250420.md)
     - **Título**: Optimizing memory usage with modern .NET features
     - **Autor**: Nemanja Mijailovic
     - **Fonte**: Nemanja Mijailovic's Blog
