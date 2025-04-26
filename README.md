@@ -1,60 +1,73 @@
 # ABM_00_Estudos-Leitura
 
-Um repositório dedicado a organizar e compartilhar notas de leitura sobre desenvolvimento principalmente em C#. 
-
-Ele contém resumos, insights e referências de fontes diversas, incluindo blogs, sites, livros e cursos. Ideal para aprendizado contínuo, consulta futura e inspiração para desenvolvedores.
+Um repositório dedicado a organizar e compartilhar notas de leitura sobre desenvolvimento com C#. Ele contém resumos, insights e referências de fontes diversas, incluindo blogs, sites, livros e cursos. Ideal para aprendizado contínuo, consulta futura e inspiração para desenvolvedores.
 
 ---
 
 ## Índice
 
 1. [2025.04.13](./Leitura/20250413.md)
-    - **Título**: Melhores Práticas da API RESTful para Desenvolvedores .NET - Guia Completo
-    - **Autor**: Mukesh Murugan
-    - **Fonte**: Code With Mukesh
-    - **URL**: https://codewithmukesh.com/blog/restful-api-best-practices-for-dotnet-developers/
-    - **Atualizado**: 20 de março de 2025
+
+   - **Título**: Melhores Práticas da API RESTful para Desenvolvedores .NET - Guia Completo
+   - **Autor**: Mukesh Murugan
+   - **Fonte**: Code With Mukesh
+   - **URL**: https://codewithmukesh.com/blog/restful-api-best-practices-for-dotnet-developers/
+   - **Atualizado**: 20 de março de 2025
 
 2. [2025.04.18](./Leitura/20250418.md)
-    - **Título**: 20+ .NET Tips from a Senior .NET Developer - Write Better .NET Code
-    - **Autor**: Mukesh Murugan
-    - **Fonte**: Code With Mukesh
-    - **URL**: https://codewithmukesh.com/blog/20-tips-from-a-senior-dotnet-developer/
-    - **Atualizado**: 21 de março de 2025
+
+   - **Título**: 20+ .NET Tips from a Senior .NET Developer - Write Better .NET Code
+   - **Autor**: Mukesh Murugan
+   - **Fonte**: Code With Mukesh
+   - **URL**: https://codewithmukesh.com/blog/20-tips-from-a-senior-dotnet-developer/
+   - **Atualizado**: 21 de março de 2025
 
 3. [2025.04.18-02](./Leitura/20250418-02.md)
-    - **Título**: Understanding Middlewares in ASP.NET Core - Everything you Need to Know!
-    - **Autor**: Mukesh Murugan
-    - **Fonte**: Code With Mukesh
-    - **URL**: https://codewithmukesh.com/blog/middlewares-in-aspnet-core/
-    - **Atualizado**: 26 de março de 2025
+
+   - **Título**: Understanding Middlewares in ASP.NET Core - Everything you Need to Know!
+   - **Autor**: Mukesh Murugan
+   - **Fonte**: Code With Mukesh
+   - **URL**: https://codewithmukesh.com/blog/middlewares-in-aspnet-core/
+   - **Atualizado**: 26 de março de 2025
 
 4. [2025.04.19](./Leitura/20250419.md)
-    - **Título**: Dependency Injection in ASP.NET Core Explained
-    - **Autor**: Mukesh Murugan
-    - **Fonte**: Code With Mukesh
-    - **URL**: https://codewithmukesh.com/blog/dependency-injection-in-aspnet-core-explained/
-    - **Atualizado**: 30 de março de 2025
-  
+
+   - **Título**: Dependency Injection in ASP.NET Core Explained
+   - **Autor**: Mukesh Murugan
+   - **Fonte**: Code With Mukesh
+   - **URL**: https://codewithmukesh.com/blog/dependency-injection-in-aspnet-core-explained/
+   - **Atualizado**: 30 de março de 2025
+
 5. [2025.04.20](./Leitura/20250420.md)
-    - **Título**: Optimizing memory usage with modern .NET features
-    - **Autor**: Nemanja Mijailovic
-    - **Fonte**: Nemanja Mijailovic's Blog
-    - **URL**: https://mijailovic.net/2025/04/10/memory-optimizations/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2040
-    - **Atualizado**: 10 de abril de 2025
+
+   - **Título**: Optimizing memory usage with modern .NET features
+   - **Autor**: Nemanja Mijailovic
+   - **Fonte**: Nemanja Mijailovic's Blog
+   - **URL**: https://mijailovic.net/2025/04/10/memory-optimizations/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2040
+   - **Atualizado**: 10 de abril de 2025
 
 6. [2025.04.22](./Leitura/20250422.md)
-    - **Título**: Building Your First MCP Server with .NET: A Developer's Guide to Model Context Protocol
-    - **Autor**: Engincan Veske
-    - **Fonte**: Engincan Veske's Blog
-    - **URL**: https://engincanveske.substack.com/p/building-your-first-mcp-server-with
-    - **Atualizado**: 09 de abril de 2025
+
+   - **Título**: Building Your First MCP Server with .NET: A Developer's Guide to Model Context Protocol
+   - **Autor**: Engincan Veske
+   - **Fonte**: Engincan Veske's Blog
+   - **URL**: https://engincanveske.substack.com/p/building-your-first-mcp-server-with
+   - **Atualizado**: 09 de abril de 2025
 
 7. [2025.04.22-02](./Leitura/20250422-02.md)
-    - **Título**: Null-Conditional Assignment in C# – A Cleaner Way to Handle Nulls in .NET 10
-    - **Autor**: Arunkumar
-    - **Fonte**: Arunkumar Blog
-    - **URL**: https://www.arungudelli.com/csharp-tips/null-conditional-assignment-in-csharp/
-    - **Atualizado**: 16 de abril de 2025
+
+   - **Título**: Null-Conditional Assignment in C# – A Cleaner Way to Handle Nulls in .NET 10
+   - **Autor**: Arunkumar
+   - **Fonte**: Arunkumar Blog
+   - **URL**: https://www.arungudelli.com/csharp-tips/null-conditional-assignment-in-csharp/
+   - **Atualizado**: 16 de abril de 2025
+
+8. [2025.04.25](./Leitura/20250425.md)
+
+- **Título**: Understanding Microservices: Core Concepts and Benefits
+- **Autor**: Milan Jovanović
+- **Fonte**: Milan Jovanović's Blog
+- **URL**: https://www.milanjovanovic.tech/blog/understanding-microservices-core-concepts-and-benefits?utm_source=newsletter&utm_medium=email&utm_campaign=tnw138
+- **Atualizado**: 19 de abril de 2025
 
 ---
