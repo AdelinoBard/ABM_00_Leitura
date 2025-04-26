@@ -6,7 +6,7 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
 
 ## Índice
 
-1. [2025.04.13](./Leitura/20250413.md)
+1. [2025.04.13](./20250413.md)
 
    - **Título**: Melhores Práticas da API RESTful para Desenvolvedores .NET - Guia Completo
    - **Autor**: Mukesh Murugan
