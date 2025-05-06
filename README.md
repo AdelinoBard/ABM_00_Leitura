@@ -64,11 +64,11 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
 
 8. [2025.04.25](./20250425.md)
 
-- **Título**: Understanding Microservices: Core Concepts and Benefits
-- **Autor**: Milan Jovanović
-- **Fonte**: Milan Jovanović's Blog
-- **URL**: https://www.milanjovanovic.tech/blog/understanding-microservices-core-concepts-and-benefits?utm_source=newsletter&utm_medium=email&utm_campaign=tnw138
-- **Atualizado**: 19 de abril de 2025
+   - **Título**: Understanding Microservices: Core Concepts and Benefits
+   - **Autor**: Milan Jovanović
+   - **Fonte**: Milan Jovanović's Blog
+   - **URL**: https://www.milanjovanovic.tech/blog/understanding-microservices-core-concepts-and-benefits?utm_source=newsletter&utm_medium=email&utm_campaign=tnw138
+   - **Atualizado**: 19 de abril de 2025
 
 9. [2025.05.05](./20250505.md)
 
