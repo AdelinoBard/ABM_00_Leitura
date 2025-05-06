@@ -72,10 +72,10 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
 
 9. [2025.05.05](./20250505.md)
 
-- **Título**: Why C#?
-- **Autor**: Dr Milan Milanović
-- **Fonte**: Tech World With Milan Newsletter
-- **URL**: https://newsletter.techworld-with-milan.com/p/why-csharp
-- **Atualizado**: 24 de abril de 2025
+   - **Título**: Why C#?
+   - **Autor**: Dr Milan Milanović
+   - **Fonte**: Tech World With Milan Newsletter
+   - **URL**: https://newsletter.techworld-with-milan.com/p/why-csharp
+   - **Atualizado**: 24 de abril de 2025
 
 ---
