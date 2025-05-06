@@ -64,18 +64,34 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
 
 8. [2025.04.25](./20250425.md)
 
-   - **Título**: Understanding Microservices: Core Concepts and Benefits
-   - **Autor**: Milan Jovanović
-   - **Fonte**: Milan Jovanović's Blog
-   - **URL**: https://www.milanjovanovic.tech/blog/understanding-microservices-core-concepts-and-benefits?utm_source=newsletter&utm_medium=email&utm_campaign=tnw138
-   - **Atualizado**: 19 de abril de 2025
+- **Título**: Understanding Microservices: Core Concepts and Benefits
+- **Autor**: Milan Jovanović
+- **Fonte**: Milan Jovanović's Blog
+- **URL**: https://www.milanjovanovic.tech/blog/understanding-microservices-core-concepts-and-benefits?utm_source=newsletter&utm_medium=email&utm_campaign=tnw138
+- **Atualizado**: 19 de abril de 2025
 
 9. [2025.05.05](./20250505.md)
 
-   - **Título**: Why C#?
-   - **Autor**: Dr Milan Milanović
-   - **Fonte**: Tech World With Milan Newsletter
-   - **URL**: https://newsletter.techworld-with-milan.com/p/why-csharp
-   - **Atualizado**: 24 de abril de 2025
+- **Título**: Why C#?
+- **Autor**: Dr Milan Milanović
+- **Fonte**: Tech World With Milan Newsletter
+- **URL**: https://newsletter.techworld-with-milan.com/p/why-csharp
+- **Atualizado**: 24 de abril de 2025
+
+10. [2025.05.06-02](./20250506-02.md)
+
+- **Título**: Going beyond singleton, scoped, and transient lifetimes—tenant, pooled, and drifter
+- **Autor**: Andrew Lock
+- **Fonte**: Andrew Lock | .NET Escapades
+- **URL**: https://andrewlock.net/going-beyond-singleton-scoped-and-transient-lifetimes/
+- **Atualizado**: 22 de abril de 2025
+
+11. [2025.05.06](./20250506.md)
+
+- **Título**: Creating a 'pooled' dependency injection lifetime
+- **Autor**: Andrew Lock
+- **Fonte**: Andrew Lock | .NET Escapades
+- **URL**: https://andrewlock.net/creating-a-pooled-dependency-injection-lifetime/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2048
+- **Atualizado**: 29 de abril de 2025
 
 ---

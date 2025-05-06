@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="1766px" height="842px" style="background-color:light-dark(#ffffff, var(--ge-dark-color, #121212));background:#ffffff;color-scheme:light dark" version="1.1" viewBox="-.5 -.5 1766 842" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))"/>
+<g data-cell-id="0">
+<g data-cell-id="1">
+<g data-cell-id="aM9ryv3xv72pqoxQDRHE-5">
+<g pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2">
+<rect x="668" width="360" height="80" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))"/>
+<path d="m848 80v760" fill="none" stroke-dasharray="6 6" stroke-miterlimit="10"/>
+</g>
+<g transform="translate(-.5 -.5) scale(2)">
+<switch>
+<foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+<div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:340px;padding-top:10px;width:178px" xmlns="http://www.w3.org/1999/xhtml">
+<div color="#000000" font-size="0" text-align="center" style="box-sizing:border-box">
+<div color="light-dark(#000000, #ffffff)" display="inline-block" font-family='"Helvetica"' font-size="12px" pointer-events="all" style="line-height:1.2;white-space:normal;word-wrap:normal">TimedDependencyFactory</div>
+</div>
+</div>
+</foreignObject>
+<text x="424" y="24" fill="light-dark(#000000, #ffffff)" font-family='"Helvetica"' font-size="12px" text-anchor="middle">TimedDependencyFactory</text>
+</switch>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-13">
+<rect x="838" y="340" width="20" height="100" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2"/>
+</g>
+</g>
+<g data-cell-id="aM9ryv3xv72pqoxQDRHE-7">
+<g stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-miterlimit="10" stroke-width="2">
+<path d="m498 160h170 153.76" fill="none" pointer-events="stroke"/>
+<path d="m835.76 160-14 7v-14z" fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" pointer-events="all"/>
+</g>
+<g fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" font-family='"Helvetica"' font-size="22px" text-anchor="middle">
+<rect x="638" y="130" width="64" height="28" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" stroke-width="0"/>
+<text x="668.03" y="149.5">create</text>
+</g>
+</g>
+<g data-cell-id="aM9ryv3xv72pqoxQDRHE-10">
+<g fill="none" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-miterlimit="10" stroke-width="2">
+<path d="m508 578h160 475.53" pointer-events="stroke" stroke-dasharray="6 6"/>
+<path d="m1127.8 587 18-9-18-9" pointer-events="all"/>
+</g>
+</g>
+<g data-cell-id="aM9ryv3xv72pqoxQDRHE-2">
+<rect x="478" y="140" width="20" height="440" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2"/>
+</g>
+<g data-cell-id="aM9ryv3xv72pqoxQDRHE-3">
+<g stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2">
+<path d="m366 140.01 95.76 0.08" fill="none" pointer-events="stroke" stroke-miterlimit="10"/>
+<ellipse cx="358" cy="140" rx="8" ry="8" fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" pointer-events="all"/>
+<path d="m475.76 140.1-14 6.99 0.01-14z" fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" pointer-events="all" stroke-miterlimit="10"/>
+</g>
+<g fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" font-family='"Helvetica"' font-size="22px" text-anchor="middle">
+<rect x="369" y="111" width="102" height="28" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" stroke-width="0"/>
+<text x="418.45" y="129.61">Request 1</text>
+</g>
+</g>
+<g data-cell-id="aM9ryv3xv72pqoxQDRHE-6">
+<rect x="838" y="160" width="20" height="100" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2"/>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-4">
+<g pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2">
+<rect x="1078" width="160" height="80" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))"/>
+<path d="m1158 80v760" fill="none" stroke-dasharray="6 6" stroke-miterlimit="10"/>
+</g>
+<g transform="translate(-.5 -.5) scale(2)">
+<switch>
+<foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+<div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:545px;padding-top:10px;width:78px" xmlns="http://www.w3.org/1999/xhtml">
+<div color="#000000" font-size="0" text-align="center" style="box-sizing:border-box">
+<div color="light-dark(#000000, #ffffff)" display="inline-block" font-family='"Helvetica"' font-size="12px" pointer-events="all" style="line-height:1.2;white-space:normal;word-wrap:normal">Instance A</div>
+</div>
+</div>
+</foreignObject>
+<text x="579" y="24" fill="light-dark(#000000, #ffffff)" font-family='"Helvetica"' font-size="12px" text-anchor="middle">Instance A</text>
+</switch>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-5">
+<rect x="1148" y="200" width="20" height="380" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2"/>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-6">
+<g pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2">
+<rect x="1308" width="160" height="80" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))"/>
+<path d="m1388 80v760" fill="none" stroke-dasharray="6 6" stroke-miterlimit="10"/>
+</g>
+<g transform="translate(-.5 -.5) scale(2)">
+<switch>
+<foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+<div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:660px;padding-top:10px;width:78px" xmlns="http://www.w3.org/1999/xhtml">
+<div color="#000000" font-size="0" text-align="center" style="box-sizing:border-box">
+<div color="light-dark(#000000, #ffffff)" display="inline-block" font-family='"Helvetica"' font-size="12px" pointer-events="all" style="line-height:1.2;white-space:normal;word-wrap:normal">Instance B</div>
+</div>
+</div>
+</foreignObject>
+<text x="694" y="24" fill="light-dark(#000000, #ffffff)" font-family='"Helvetica"' font-size="12px" text-anchor="middle">Instance B</text>
+</switch>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-7">
+<rect x="1378" y="340" width="20" height="340" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2"/>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-8">
+<g stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-miterlimit="10" stroke-width="2">
+<path d="m858 200h170 103.76" fill="none" pointer-events="stroke"/>
+<path d="m1145.8 200-14 7v-14z" fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" pointer-events="all"/>
+</g>
+<g transform="translate(-.5 -.5) scale(2)">
+<switch>
+<foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+<div display="flex" style="align-items:unsafe flex-end;height:1px;justify-content:unsafe center;margin-left:470px;padding-top:97px;width:1px" xmlns="http://www.w3.org/1999/xhtml">
+<div color="#000000" font-size="0" text-align="center" style="background-color:#ffffff;box-sizing:border-box">
+<div color="light-dark(#000000, #ffffff)" display="inline-block" font-family='"Helvetica"' font-size="11px" pointer-events="all" style="background-color:light-dark(#ffffff, var(--ge-dark-color, #121212));line-height:1.2;white-space:nowrap">GetInstance()</div>
+</div>
+</div>
+</foreignObject>
+<text x="502" y="97" fill="light-dark(#000000, #ffffff)" font-family='"Helvetica"' font-size="11px" text-anchor="middle">GetInstance()</text>
+</switch>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-12">
+<g stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-miterlimit="10" stroke-width="2">
+<path d="m508 340h160 153.76" fill="none" pointer-events="stroke"/>
+<path d="m835.76 340-14 7v-14z" fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" pointer-events="all"/>
+</g>
+<g fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" font-family='"Helvetica"' font-size="22px" text-anchor="middle">
+<rect x="642" y="310" width="64" height="28" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" stroke-width="0"/>
+<text x="671.71" y="329.5">create</text>
+</g>
+</g>
+<g data-cell-id="aM9ryv3xv72pqoxQDRHE-1">
+<g pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2">
+<rect x="338" width="300" height="80" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))"/>
+<path d="m488 80v760" fill="none" stroke-dasharray="6 6" stroke-miterlimit="10"/>
+</g>
+<g transform="translate(-.5 -.5) scale(2)">
+<switch>
+<foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+<div display="flex" style="align-items:unsafe center;height:1px;justify-content:unsafe center;margin-left:190px;padding-top:10px;width:148px" xmlns="http://www.w3.org/1999/xhtml">
+<div color="#000000" font-size="0" text-align="center" style="box-sizing:border-box">
+<div color="light-dark(#000000, #ffffff)" display="inline-block" font-family='"Helvetica"' font-size="12px" pointer-events="all" style="line-height:1.2;white-space:normal;word-wrap:normal">ASP.NET Core</div>
+</div>
+</div>
+</foreignObject>
+<text x="244" y="24" fill="light-dark(#000000, #ffffff)" font-family='"Helvetica"' font-size="12px" text-anchor="middle">ASP.NET Core</text>
+</switch>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-11">
+<rect x="488" y="320" width="20" height="360" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" pointer-events="all" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2"/>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-14">
+<g stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-width="2">
+<path d="m366 319.94 105.76-0.77" fill="none" pointer-events="stroke" stroke-miterlimit="10"/>
+<ellipse cx="358" cy="320" rx="8" ry="8" fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" pointer-events="all"/>
+<path d="m485.76 319.07-13.94 7.1-0.11-14z" fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" pointer-events="all" stroke-miterlimit="10"/>
+</g>
+<g fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" font-family='"Helvetica"' font-size="22px" text-anchor="middle">
+<rect x="373" y="290" width="102" height="28" fill="light-dark(#ffffff, var(--ge-dark-color, #121212))" stroke-width="0"/>
+<text x="421.82" y="308.55">Request 2</text>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-15">
+<g stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-miterlimit="10" stroke-width="2">
+<path d="m858 359.16h170l333.76 0.8" fill="none" pointer-events="stroke"/>
+<path d="m1375.8 359.99-14.01 6.97 0.03-14z" fill="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" pointer-events="all"/>
+</g>
+<g transform="translate(-.5 -.5) scale(2)">
+<switch>
+<foreignObject width="100%" height="100%" overflow="visible" pointer-events="none" text-align="left" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+<div display="flex" style="align-items:unsafe flex-end;height:1px;justify-content:unsafe center;margin-left:470px;padding-top:177px;width:1px" xmlns="http://www.w3.org/1999/xhtml">
+<div color="#000000" font-size="0" text-align="center" style="background-color:#ffffff;box-sizing:border-box">
+<div color="light-dark(#000000, #ffffff)" display="inline-block" font-family='"Helvetica"' font-size="11px" pointer-events="all" style="background-color:light-dark(#ffffff, var(--ge-dark-color, #121212));line-height:1.2;white-space:nowrap">GetInstance()</div>
+</div>
+</div>
+</foreignObject>
+<text x="559" y="177" fill="light-dark(#000000, #ffffff)" font-family='"Helvetica"' font-size="11px" text-anchor="middle">GetInstance()</text>
+</switch>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-17">
+<g fill="none" stroke="light-dark(rgb(0, 0, 0), rgb(255, 255, 255))" stroke-miterlimit="10" stroke-width="2">
+<path d="m510 680h160 703.53" pointer-events="stroke" stroke-dasharray="6 6"/>
+<path d="m1357.8 689 18-9-18-9" pointer-events="all"/>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-18">
+<rect x="128" y="180" width="120" height="60" fill="none" pointer-events="all"/>
+<g fill="light-dark(rgb(204, 0, 0), rgb(255, 163, 163))" font-family='"Helvetica"' font-size="24px" text-anchor="middle">
+<text x="187.5" y="191.5">Request 1 is received, and </text>
+<text x="187.5" y="219.5">a new instance, Instance A is</text>
+<text x="187.5" y="247.5">created and used for the request.</text>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-19">
+<rect x="128" y="420" width="120" height="60" fill="none" pointer-events="all"/>
+<g fill="light-dark(rgb(204, 0, 0), rgb(255, 163, 163))" font-family='"Helvetica"' font-size="24px" text-anchor="middle">
+<text x="187.5" y="417.5">While Request 1 is still running,</text>
+<text x="187.5" y="445.5">request 2 is received. The lifetime</text>
+<text x="187.5" y="473.5">of instance A has expired, so a new</text>
+<text x="187.5" y="501.5">instance is created.</text>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-20">
+<rect x="1548" y="420" width="120" height="60" fill="none" pointer-events="all"/>
+<g fill="light-dark(rgb(204, 0, 0), rgb(255, 163, 163))" font-family='"Helvetica"' font-size="24px" text-anchor="middle">
+<text x="1607.5" y="417.5">For the period during which</text>
+<text x="1607.5" y="445.5">both request 1 and request 2</text>
+<text x="1607.5" y="473.5">are executing, there are </text>
+<text x="1607.5" y="501.5">2 instances of T.</text>
+</g>
+</g>
+<g data-cell-id="Zqr4JXq_mlaIh4oRIc71-21">
+<g fill="none" stroke="light-dark(rgb(204, 0, 0), rgb(255, 163, 163))" stroke-miterlimit="10" stroke-width="2">
+<path d="m1428.9 340-0.89 240" pointer-events="stroke"/>
+<path d="m1436.9 340.03-16-0.06" pointer-events="all"/>
+<path d="m1420 579.97 16 0.06" pointer-events="all"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
