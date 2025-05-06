@@ -94,4 +94,12 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
 - **URL**: https://andrewlock.net/creating-a-pooled-dependency-injection-lifetime/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2048
 - **Atualizado**: 29 de abril de 2025
 
+12. [2025.05.06-03](./20250506-03.md)
+
+- **Título**: How to Secure Your .NET Applications
+- **Autor**: Adrian Bailador Panero
+- **Fonte**: Adrian Bailador | .NET
+- **URL**: https://adrianbailador.github.io/blog/10-how-to-secure-your-net-applications/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2048
+- **Atualizado**: 19 de abril de 2025
+
 ---
