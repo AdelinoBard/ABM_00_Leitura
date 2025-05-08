@@ -156,4 +156,20 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
 - **Tags**: C#, Field Keyword, C# 14
 - **Resumo**: Este artigo explora o novo recurso de palavra-chave "field" no C# 14, discutindo como ele funciona e suas implicações para os desenvolvedores. O autor fornece exemplos práticos e dicas para aproveitar ao máximo essa nova funcionalidade, destacando como ela pode melhorar a legibilidade e a manutenção do código.
 
+15. [2025.05.07-01](./20250507-01.md)
+
+- **Título**: Structured logging in .NET with NativeAOT
+- **Autor**: AlexandreHTRB
+- **Fonte**: AlexandreHTRB's blog
+- **URL**: https://alexandrehtrb.github.io/posts/2025/04/logs-estruturados-em-dotnet-com-nativeaot/
+- **Atualizado**: 15 de abril de 2025
+
+16. [2025.05.07-02](./20250507-02.md)
+
+- **Título**: Pattern Matching in C#: A Simple Guide with Real-World Examples
+- **Autor**: Arunkumar
+- **Fonte**: Arunkumar Blog
+- **URL**: https://www.arungudelli.com/csharp-tips/pattern-matching-in-csharp/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2044
+- **Atualizado**: 10 de abril de 2025
+
 ---
