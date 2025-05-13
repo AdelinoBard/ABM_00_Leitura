@@ -163,6 +163,8 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
 - **Fonte**: AlexandreHTRB's blog
 - **URL**: https://alexandrehtrb.github.io/posts/2025/04/logs-estruturados-em-dotnet-com-nativeaot/
 - **Atualizado**: 15 de abril de 2025
+- **Tags**: .NET, Structured Logging, NativeAOT
+- **Resumo**: Este artigo discute como implementar logs estruturados em aplicativos .NET usando o NativeAOT. O autor fornece exemplos práticos e dicas para configurar e otimizar o registro de logs, destacando a importância dos logs estruturados para melhorar a observabilidade e a depuração de aplicativos.
 
 16. [2025.05.07-02](./20250507-02.md)
 
@@ -171,5 +173,17 @@ Um repositório dedicado a organizar e compartilhar notas de leitura sobre desen
 - **Fonte**: Arunkumar Blog
 - **URL**: https://www.arungudelli.com/csharp-tips/pattern-matching-in-csharp/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2044
 - **Atualizado**: 10 de abril de 2025
+- **Tags**: C#, Pattern Matching, Real-World Examples
+- **Resumo**: Este artigo fornece um guia simples sobre correspondência de padrões em C#, com exemplos do mundo real. O autor explica como usar a correspondência de padrões para simplificar o código e melhorar a legibilidade, além de discutir as melhores práticas para aplicar esse recurso em projetos C#.
+
+17. [2025.05.11-01](./20250511-01.md)
+
+- **Título**: When to Use Transient, Scoped, or Singleton in .NET Apps - Understanding Service Lifetimes
+- **Autor**: Mukesh Murugan
+- **Fonte**: codewithmukesh
+- **URL**: https://codewithmukesh.com/blog/when-to-use-transient-scoped-singleton-dotnet/
+- **Atualizado**: 31 de março de 2025
+- **Tags**: .NET, Transient, Scoped, Singleton
+- **Resumo**: Este artigo discute quando usar os ciclos de vida Transient, Scoped ou Singleton em aplicativos .NET. O autor fornece exemplos práticos e dicas para ajudar os desenvolvedores a escolher o ciclo de vida apropriado para seus serviços, melhorando a eficiência e a manutenção do código.
 
 ---
